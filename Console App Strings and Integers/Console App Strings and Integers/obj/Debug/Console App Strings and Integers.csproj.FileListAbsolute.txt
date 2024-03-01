@@ -1,0 +1,7 @@
+C:\Users\micuc\Documents\GitHub\Console-App-Strings-and-Integers-Assignment\Console App Strings and Integers\Console App Strings and Integers\bin\Debug\Console App Strings and Integers.exe.config
+C:\Users\micuc\Documents\GitHub\Console-App-Strings-and-Integers-Assignment\Console App Strings and Integers\Console App Strings and Integers\bin\Debug\Console App Strings and Integers.exe
+C:\Users\micuc\Documents\GitHub\Console-App-Strings-and-Integers-Assignment\Console App Strings and Integers\Console App Strings and Integers\bin\Debug\Console App Strings and Integers.pdb
+C:\Users\micuc\Documents\GitHub\Console-App-Strings-and-Integers-Assignment\Console App Strings and Integers\Console App Strings and Integers\obj\Debug\Console App Strings and Integers.csproj.AssemblyReference.cache
+C:\Users\micuc\Documents\GitHub\Console-App-Strings-and-Integers-Assignment\Console App Strings and Integers\Console App Strings and Integers\obj\Debug\Console App Strings and Integers.csproj.CoreCompileInputs.cache
+C:\Users\micuc\Documents\GitHub\Console-App-Strings-and-Integers-Assignment\Console App Strings and Integers\Console App Strings and Integers\obj\Debug\Console App Strings and Integers.exe
+C:\Users\micuc\Documents\GitHub\Console-App-Strings-and-Integers-Assignment\Console App Strings and Integers\Console App Strings and Integers\obj\Debug\Console App Strings and Integers.pdb
